@@ -1,0 +1,6 @@
+CREATE AN ENVIORNMENT using Anaconda first:
+
+pip install scrapegraphai
+pip install streamlit
+pip install playwright
+playwright install
