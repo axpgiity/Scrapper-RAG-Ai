@@ -4,3 +4,7 @@ pip install scrapegraphai
 pip install streamlit
 pip install playwright
 playwright install
+
+To Run:
+1)in the same enviornment make sure all the above packages are insatlled.
+2)streamlit run scrapeai.py
